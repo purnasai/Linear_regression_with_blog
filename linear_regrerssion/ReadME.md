@@ -11,7 +11,7 @@ You can just run '''pip install -r requirements.txt''' in terminal to install th
 
 # Usage:
 
-Type python demo.py into terminal and you'll see the scatter plot and line of best fit appear.
+Type python linear_regression.py into terminal and you'll see the scatter plot and line of best fit appear.
 
 
 
