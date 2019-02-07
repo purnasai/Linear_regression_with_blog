@@ -7,7 +7,7 @@
 pandas
 scikit-learn
 matplotlib
-You can just run pip install -r requirements.txt in terminal to install the necessary dependencies.
+You can just run '''pip install -r requirements.txt''' in terminal to install the necessary dependencies.
 
 # Usage:
 
